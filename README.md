@@ -1,2 +1,6 @@
-# IOT-Auto-Temperature-Scan-Entry-And-Thermal-Flap-Barrier
-Iot based model for Covid prevention and public safety, contactless  temperature sensing and mask detection.
+# Face_Mask_Detection
+Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-face-mask-detector
+
+![RaspberryPi Face Mask](https://github.com/carolinedunn/Face_Mask_Detection/blob/main/maskon-maskoff.png)
+
+Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-face-mask-detector
